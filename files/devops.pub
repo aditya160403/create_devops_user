@@ -1,0 +1,3 @@
+
+# Create files/devops.pub
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD1eXampleKey1234567890xyz user@example" > files/devops.pub
